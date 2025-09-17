@@ -5,9 +5,8 @@ const Test = () => {
 
     return (
         <>
-            <h1>this is branch</h1>
-            <div>Now switch to the branch you created on GitHub</div>
-
+            <div>This is branch </div>
+            <div>how to confirm this is branch</div>
         </>
     )
 };
